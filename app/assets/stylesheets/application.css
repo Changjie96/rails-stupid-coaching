@@ -16,3 +16,7 @@
  .container {
   margin: 100px auto;
  }
+
+.border-left {
+ border-left: 5px solid #78797b!important;
+}
